@@ -4,7 +4,7 @@ Développeuse Full Stack Java en formation CDA RNCP 6 chez Diginamic.
  
 ## 💻 Technologies
 - Java
-- java-script
+- JavaScript
 - HTML/CSS
 - Git & GitHub
  
@@ -13,7 +13,7 @@ Développeuse Full Stack Java en formation CDA RNCP 6 chez Diginamic.
 Application java-script permettant de générer aléatoirement des idées de projets web.
  
 ### Technologies utilisées
-- java-script
+- JavaScript
 - HTML
 - CSS
  

@@ -11,6 +11,10 @@ Développeuse Full Stack Java en formation CDA RNCP 6 chez Diginamic.
 ## 🚀 Projet principal
 ### ProjectBoost
 Application java-script permettant de générer aléatoirement des idées de projets web.
+
+
+## 🔗 LinkedIn
+www.linkedin.com/in/garance-guinet
  
 ### Technologies utilisées
 - JavaScript

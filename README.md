@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**GaranceGuinet/GaranceGuinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Bonjour, moi c’est Garance 👋
+ 
+Développeuse Full Stack Java en formation CDA RNCP 6 chez Diginamic.
+ 
+## 💻 Technologies
+- Java
+- java-script
+- HTML/CSS
+- Git & GitHub
+ 
+## 🚀 Projet principal
+### ProjectBoost
+Application java-script permettant de générer aléatoirement des idées de projets web.
+ 
+### Technologies utilisées
+- java-script
+- HTML
+- CSS
+ 
+## 📚 Formation actuelle
+Concepteur Développeur d’Applications Full Stack Java – RNCP 6.
+ 
+## 📍 Localisation
+Montpellier, Occitanie

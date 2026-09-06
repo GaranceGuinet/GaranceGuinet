@@ -1,38 +1,48 @@
-# Bonjour, moi c’est Garance 👋
+# Garance Guinet — Conceptrice développeuse d’applications
 
-Développeuse en formation **Concepteur Développeur d’Applications (CDA)** chez Diginamic.
+En formation **Concepteur Développeur d’Applications (CDA)** chez Diginamic.
 
-Je développe des applications web et backend en **Java, JavaScript et Node.js**, de la conception jusqu’à l’accès aux données et aux API REST.
+Je conçois et développe des applications web et backend, de la modélisation des données jusqu’aux API et interfaces web.
 
-Je suis actuellement à la recherche d’un **stage en développement**.
+Je recherche actuellement un **stage en développement du 26/10/2026 au 02/02/2027**.
+
+🌐 [Voir mon portfolio](https://garanceguinet.github.io/portfolio-garance/)
 
 ## 🛠️ Technologies
 
 ### Backend
 
-- Java
+- Java 21
 - Spring Framework
 - JPA / Hibernate
 - Node.js
 - Express
 - API REST
-- SQL / MariaDB
-- NoSQL
 - Maven
+
+### Données
+
+- SQL
+- MariaDB
+- JPQL
+- MongoDB
+- NoSQL
+- Modélisation relationnelle
 
 ### Frontend
 
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
 - Responsive Design
 
 ### Conception & qualité
 
 - UML
 - Architecture applicative
-- Tests unitaires
+- JUnit
+- Tests
+- Swagger / OpenAPI
 - Git / GitHub
 - Méthodes agiles
 - UX / maquettage
@@ -41,29 +51,44 @@ Je suis actuellement à la recherche d’un **stage en développement**.
 
 ### 🎬 Cinema JPA
 
-Application Java permettant d’importer, modéliser et interroger une base de données cinématographique.
+Application Java de modélisation et d’exploitation de données cinématographiques, construite autour d’un modèle métier avec héritage et relations JPA.
 
-**Java · JPA/Hibernate · MariaDB · JPQL · Maven · JUnit**
+- Modèle métier avec héritage et relations JPA
+- Import et transformation de plusieurs jeux de données CSV
+- Persistance avec JPA / Hibernate et MariaDB
+- Requêtes JPQL
+- 11 tests automatisés
 
-[Voir le projet](https://github.com/GaranceGuinet/cinema-jpa)
+**Java 21 · JPA/Hibernate · MariaDB · JPQL · Maven · JUnit**
+
+[Voir le projet](https://github.com/GaranceGuinet/cinema-jpa)  
+[Voir le projet détaillé](https://garanceguinet.github.io/portfolio-garance/projects/cinema-jpa.html)
 
 ---
 
 ### 🌤️ Weather API
 
-API REST météo développée en Node.js et Express avec persistance CSV, documentation Swagger, CLI et tests automatisés.
+API REST météo développée en **pair programming** avec Node.js et Express.
 
-**Node.js · Express · REST API · Swagger/OpenAPI · JavaScript · Tests**
+- Consultation et gestion de relevés, villes et statistiques
+- Stockage CSV avec chargement en mémoire
+- Validation des données et gestion centralisée des erreurs
+- Documentation Swagger / OpenAPI
+- Interface CLI
+- 12 tests automatisés
 
-[Voir le projet](https://github.com/GaranceGuinet/weather-api)
+**Node.js · Express · API REST · Swagger/OpenAPI · JavaScript · Tests**
+
+[Voir le projet](https://github.com/GaranceGuinet/weather-api)  
+[Voir le projet détaillé](https://garanceguinet.github.io/portfolio-garance/projects/weather-api.html)
 
 ---
 
 ### 💡 ProjectBoost
 
-Générateur d’idées de projets web avec filtres par catégorie et difficulté, affichage des compétences et gestion de favoris persistants.
+Générateur d’idées de projets web développé en JavaScript, avec filtres par catégorie et difficulté, manipulation du DOM et gestion de favoris persistants via localStorage.
 
-**JavaScript · DOM · LocalStorage · HTML · CSS · Responsive Design**
+**JavaScript · DOM · LocalStorage · HTML5 · CSS3 · Responsive Design**
 
 [Voir le projet](https://github.com/GaranceGuinet/projectboost-idea-generator)  
 [Voir la démo](https://garanceguinet.github.io/projectboost-idea-generator/)
@@ -72,7 +97,7 @@ Générateur d’idées de projets web avec filtres par catégorie et difficult�
 
 ### 🏺 Atelier Céramique
 
-Site vitrine responsive réalisé en HTML et CSS pour un atelier de céramique fictif.
+Site vitrine multi-pages responsive réalisé en HTML5 et CSS3, avec travail sur la structure des pages, l’accessibilité et l’adaptation mobile.
 
 **HTML5 · CSS3 · Flexbox · CSS Grid · Responsive Design · Accessibilité**
 
@@ -81,4 +106,5 @@ Site vitrine responsive réalisé en HTML et CSS pour un atelier de céramique f
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/garance-guinet)
+🌐 [Portfolio](https://garanceguinet.github.io/portfolio-garance/)  
+💼 [LinkedIn](https://www.linkedin.com/in/garance-guinet)

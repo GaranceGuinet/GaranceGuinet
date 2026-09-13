@@ -4,7 +4,7 @@ En formation **Concepteur Développeur d’Applications (CDA)** chez Diginamic.
 
 Je conçois et développe des applications web et backend, de la modélisation des données jusqu’aux API et interfaces web.
 
-Je recherche actuellement un **stage en développement du 26/10/2026 au 02/02/2027**.
+Je recherche actuellement un stage en développement à partir du 26/10/2026, pour une durée flexible, à Montpellier ou à distance.
 
 🌐 [Voir mon portfolio](https://garanceguinet.github.io/portfolio-garance/)
 

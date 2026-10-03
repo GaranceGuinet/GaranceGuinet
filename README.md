@@ -2,7 +2,7 @@
 
 En formation **Concepteur Développeur d’Applications (CDA)** chez Diginamic.
 
-Je conçois et développe des applications web et backend, de la modélisation des données jusqu’aux API et interfaces web.
+Je conçois et développe des applications web et backend, de la modélisation des données jusqu’aux API et interfaces web, avec notamment **Java, Spring, Angular 22, TypeScript, JPA/Hibernate et Node.js**.
 
 Je recherche actuellement un stage en développement à partir du 26/10/2026, pour une durée flexible, à Montpellier ou à distance.
 
@@ -31,6 +31,8 @@ Je recherche actuellement un stage en développement à partir du 26/10/2026, po
 
 ### Frontend
 
+- Angular 22
+- TypeScript
 - HTML5
 - CSS3
 - JavaScript
@@ -48,6 +50,28 @@ Je recherche actuellement un stage en développement à partir du 26/10/2026, po
 - UX / maquettage
 
 ## 🚀 Projets
+
+### 🧾 YummyComponents
+
+Application de caisse enregistreuse développée avec Angular 22 dans le cadre de la formation CDA, à partir d’un énoncé fonctionnel.
+
+Le frontend a été réalisé et connecté à une API Java/Spring fournie.
+
+- Authentification avec gestion de session
+- Guard de navigation et interceptor HTTP
+- Catalogue de produits et gestion des stocks
+- Gestion d’une note avec quantités et suppression
+- Gestion de formules composées
+- Paiement et affichage de la dernière commande
+- Signals et `computed`
+- Reactive Forms
+- 13 tests unitaires avec Vitest
+
+**Angular 22 · TypeScript · Signals · HTTP · Reactive Forms · Vitest · API REST**
+
+[Voir le projet](https://github.com/GaranceGuinet/yummy-components)
+
+---
 
 ### 🎬 Cinema JPA
 
